@@ -18,11 +18,21 @@ Preview the prototype.
 
 ## DESIGN SCREENS:
 
+![output](./static/img/output1.jpeg)
+
+![output](./static/img/output2.jpeg)
+
+![output](./static/img/output3.jpeg)
+
+![output](./static/img/output4.jpeg)
+
 
 ## WIREFRAME:
-
+![output](./static/img/output5.jpeg)
 
 ## PROTOTYPE:
 
+![output](./static/img/output6.jpeg)
 
 ## RESULT:
+Thus, a user experience for design and wireframe for a product devlopment compy website is developed.
