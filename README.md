@@ -35,4 +35,4 @@ Preview the prototype.
 ![output](./static/img/output6.jpeg)
 
 ## RESULT:
-Thus, a user experience for design and wireframe for a product devlopment compy website is developed.
+Thus, a user experience for design and wireframe for a product devlopment company website is developed.
